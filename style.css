@@ -1,0 +1,113 @@
+body {
+  font-family: sans-serif;
+  margin: 0px;
+  padding: 0px;
+}
+
+#chatbox {
+  /*width: 400px;*/
+  height: 400px;
+  /*border: 1px solid black;*/
+  border: 1px solid white;
+  padding: 10px;
+  margin: 0 auto;
+  overflow-y: scroll;
+  overflow-x: scroll;
+}
+
+.you {
+  text-align: right;
+}
+
+#chatbox a {
+  text-align: right;
+}
+
+#chatbox #you {
+  background-color: #0bace8;
+}
+
+.container {
+  position: relative;
+}
+
+input, textarea {
+  
+            flex-grow: 2;
+            padding: 1px 0px 0px 1px;
+            padding: 0px;
+            margin-right: 5px;
+            border: 1px solid #ccc;
+            border-radius: 10px 0px 0px 10px;
+            outline: none;
+            width: auto;
+            min-height: auto;
+            resize: vertical;
+            overflow: auto;
+            height: 32px;
+            z-index: 999;
+            resize: none;
+            color: black;
+            text-align: justify;
+            display: block;
+            text-align-last: left;
+            padding-left: 5px;
+            padding-right: 5px;
+            padding-top: 5px;
+            padding-bottom: 5px;
+            box-sizing: border-box;
+            font-family: "Arial", Sans-Serif;
+            caret-color: #888888;
+            caret-width: 100px;
+}
+
+inpur, textarea::placeholder {
+}
+
+/* input, textarea:is(:focus, :valid) {
+  border-color: #0bace8;
+} */
+
+input, textarea:hover {
+  border: 1px solid #888888;
+  box-shadow: 2px 2px 5px 2px (0, 0, 0, 0.2);
+  color: black;
+}
+
+button {
+  
+            padding: 8px;
+            cursor: pointer;
+            background-color: #29ca04;
+            border: 1px solid #29ca04;
+            color: white;
+            border-radius: 0px 10px 10px 0px;
+}
+
+.input-container {
+  
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px;
+            border-top: 1px solid #ccc;
+            overflow-y: scroll;
+}
+
+a {
+  color: black;
+  outline: none;
+}
+
+/* a, p {
+  margin: 200px;
+} */
+
+@keyframes typing {
+  from {
+    width: 0;
+  }
+  to {
+    width: 100%;
+  }
+}
