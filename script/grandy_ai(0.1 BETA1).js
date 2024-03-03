@@ -11,7 +11,7 @@ let systemType;
 let systemStatus;
 let fetchDirectory;
 
-fetch(fetchDirectory)
+fetch("json/system.json")
   .then(response => response.json())
   .then(data => {
     systemName = data.system.name[0];
@@ -25,7 +25,7 @@ fetch(fetchDirectory)
 
 let running = systemStatus;
 
-fetch("json/messages.json")
+fetch(fetchDirectory)
   .then(response => response.json())
   .then(data => {
     const messages = data;
