@@ -25,7 +25,7 @@ fetch("json/system.json")
 
 let running = systemStatus;
 
-fetch(fetchDirectory)
+fetch("json/messages.json")
   .then(response => response.json())
   .then(data => {
     const messages = data;
