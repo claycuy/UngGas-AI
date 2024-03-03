@@ -24,6 +24,20 @@
   "default": "Sorry, I don't understand yet. Can you repeat?"
 }
 ```
+```
+//JSON Code(system.json)
+{
+"basicCommand": {
+  "default": ["what's new", "apa yang baru", "update"]
+},
+"system": {
+  "name": ["Grandy AI"],
+  "default_language": ["indoensian"],
+  "type": ["chatbot"],
+  "status": ["online", "offline"]
+}
+}
+```
 
 **Link:**
 - 0.1 BETA1:
