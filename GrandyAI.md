@@ -4,9 +4,17 @@
 
 **Code:**
 ```
-<!-- HTML Code -->
+  <!-- HTML Code -->
+  <div id="chatbox">
+  <h1 id="name">Grandy AI</h1>
+    <p id="question">ada yang bisa dibantu hari ini?</p>
+  </div>
+  <div class="container">
+    <div  class="input-container">
   <textarea type="text" id="message" oninput="checkTextarea()" placeholder="Type your message..."></textarea>
   <button id="send" onclick="commandSended()">Send</button>
+    </div>
+  </div>
 ```
 ```
 //JSON Code(messages.json)
