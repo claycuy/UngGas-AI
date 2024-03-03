@@ -1,8 +1,8 @@
 # UngGas Studio Official AI
 
-**Grandy AI :**
+## Grandy AI :
 
-Code:
+**Code:**
 ```
 <!-- HTML Code -->
   <textarea type="text" id="message" oninput="checkTextarea()" placeholder="Type your message..."></textarea>
@@ -29,4 +29,14 @@ Code:
 - 0.1 BETA1:
 ```
 https://cdn.jsdelivr.net/gh/UngGasStudio/UngGas-AI@main/script/grandy_ai(0.1%20BETA1).js
+```
+
+**Directory:**
+- messages.json directory:
+```
+json/messages.json
+```
+- system.json directory:
+```
+json/system.json
 ```
