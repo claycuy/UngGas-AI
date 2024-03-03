@@ -1,6 +1,6 @@
 # UngGas Studio Official AI
 
-**Shippy AI :**
+## Shippy AI :
 
 **Code:**
 ```
