@@ -9,8 +9,9 @@ let systemName;
 let systemDefaultLanguage;
 let systemType;
 let systemStatus;
+let fetchDirectory;
 
-fetch("json/system.json")
+fetch(fetchDirectory)
   .then(response => response.json())
   .then(data => {
     systemName = data.system.name[0];
