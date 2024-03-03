@@ -7,4 +7,4 @@
 
 **Information :**
 
-With UGAOS (Poultry AI Online System). You can create AI easily.
+With UGAOS (UngGas AI Online System). You can create AI easily.
