@@ -49,9 +49,7 @@
 
 **Link:**
 - 0.1 BETA1:
-```
 https://www.mediafire.com/file/2z67vn7pge1x6v6/script.js/file
-```
 
 **Directory:**
 - messages.json directory:
