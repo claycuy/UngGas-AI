@@ -3,6 +3,7 @@
 ## Shippy AI :
 
 **Code:**
+- HTML
 ```
     <canvas id="patternCanvas" width="256" height="256"></canvas>
   <textarea type="text" id="patternInput" placeholder="Masukkan pola (contoh: 10101010)"></textarea>
