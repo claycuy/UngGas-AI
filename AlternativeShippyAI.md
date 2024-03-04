@@ -14,5 +14,5 @@
 **Link:**
 - 0.1 BETA1:
 ```
-https://cdn.jsdelivr.net/gh/UngGasStudio/UngGas-AI@main/script/shippy_ai(0.1%20BETA1).js
+https://www.mediafire.com/file/4sues1620qzirrk/script.js/file
 ```
