@@ -3,8 +3,8 @@
 ## Grandy AI :
 
 **Code:**
+- HTML
 ```
-  <!-- HTML Code -->
   <div id="chatbox">
   <h1 id="name">Grandy AI</h1>
     <p id="question">ada yang bisa dibantu hari ini?</p>
@@ -16,8 +16,8 @@
     </div>
   </div>
 ```
+- JSON(messages.json)
 ```
-//JSON Code(messages.json)
 {
   "greeting": {
     "match": ["hello", "hey"],
@@ -32,8 +32,8 @@
   "default": "Sorry, I don't understand yet. Can you repeat?"
 }
 ```
+- JSON(system.json)
 ```
-//JSON Code(system.json)
 {
 "basicCommand": {
   "default": ["what's new", "apa yang baru", "update"]
