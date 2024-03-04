@@ -50,7 +50,7 @@
 **Link:**
 - 0.1 BETA1:
 ```
-https://cdn.jsdelivr.net/gh/UngGasStudio/UngGas-AI@main/script/grandy_ai(0.1%20BETA1).js
+https://www.mediafire.com/file/2z67vn7pge1x6v6/script.js/file
 ```
 
 **Directory:**
