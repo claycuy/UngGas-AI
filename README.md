@@ -4,11 +4,13 @@
 
 - [Grandy AI](GrandyAI.md)
 - [Shippy AI](ShippyAI.md)
+- [Voitant AI](VoitantAI.md)
 
 **Alternative Android Unsupport UGAOS :**
 
 - [Grandy AI](AlternativeGrandyAI.md)
 - [Shippy AI](AlternativeShippyAI.md)
+- [Voitant AI](AlternativeVoitantAI.md)
 
 **Information :**
 
